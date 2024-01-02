@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hiltone/static/css/main.a9bc799b.css",
+    "main.css": "/hiltone/static/css/main.315794f5.css",
     "main.js": "/hiltone/static/js/main.1c6ea9cf.js",
     "static/js/787.0af2b8a5.chunk.js": "/hiltone/static/js/787.0af2b8a5.chunk.js",
     "static/media/homebg.jpg": "/hiltone/static/media/homebg.d62fdefc3d7153327a6b.jpg",
@@ -20,12 +20,12 @@
     "static/media/slick.ttf": "/hiltone/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/hiltone/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/hiltone/index.html",
-    "main.a9bc799b.css.map": "/hiltone/static/css/main.a9bc799b.css.map",
+    "main.315794f5.css.map": "/hiltone/static/css/main.315794f5.css.map",
     "main.1c6ea9cf.js.map": "/hiltone/static/js/main.1c6ea9cf.js.map",
     "787.0af2b8a5.chunk.js.map": "/hiltone/static/js/787.0af2b8a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9bc799b.css",
+    "static/css/main.315794f5.css",
     "static/js/main.1c6ea9cf.js"
   ]
 }
