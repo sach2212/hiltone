@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/hiltone/static/css/main.a9bc799b.css",
+    "main.js": "/hiltone/static/js/main.1c6ea9cf.js",
+    "static/js/787.0af2b8a5.chunk.js": "/hiltone/static/js/787.0af2b8a5.chunk.js",
+    "static/media/homebg.jpg": "/hiltone/static/media/homebg.d62fdefc3d7153327a6b.jpg",
+    "static/media/homebg6.jpg": "/hiltone/static/media/homebg6.4306e1ad3396f02f26a2.jpg",
+    "static/media/homebg4-min.jpg": "/hiltone/static/media/homebg4-min.246f9f192fa55352703c.jpg",
+    "static/media/bonefire.jpg": "/hiltone/static/media/bonefire.a5af2215b9238a3021a7.jpg",
+    "static/media/event.jpeg": "/hiltone/static/media/event.7613cb161b0ed3abec86.jpeg",
+    "static/media/swim.jpeg": "/hiltone/static/media/swim.377278e14ad23ef6805b.jpeg",
+    "static/media/trekking.jpg": "/hiltone/static/media/trekking.c0cf637493be9a78a479.jpg",
+    "static/media/room1.jpeg": "/hiltone/static/media/room1.3be85c6a2aaa1fad0294.jpeg",
+    "static/media/abt2.jpg": "/hiltone/static/media/abt2.97466ee2a190a1cd86fa.jpg",
+    "static/media/room2.jpeg": "/hiltone/static/media/room2.316456ec9a6887fbbb55.jpeg",
+    "static/media/tent.jpg": "/hiltone/static/media/tent.1a3dc1a91a230c21c39a.jpg",
+    "static/media/upLOGO-HILLTONE-BLACK.png": "/hiltone/static/media/upLOGO-HILLTONE-BLACK.a41f17e69b36f9a9046a.png",
+    "static/media/slick.svg": "/hiltone/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/hiltone/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/hiltone/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/hiltone/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/hiltone/index.html",
+    "main.a9bc799b.css.map": "/hiltone/static/css/main.a9bc799b.css.map",
+    "main.1c6ea9cf.js.map": "/hiltone/static/js/main.1c6ea9cf.js.map",
+    "787.0af2b8a5.chunk.js.map": "/hiltone/static/js/787.0af2b8a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9bc799b.css",
+    "static/js/main.1c6ea9cf.js"
+  ]
+}
